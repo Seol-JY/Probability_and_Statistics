@@ -71,3 +71,4 @@ window.mainloop()
 |normalFunS()|1/(sd*((2*3.141592653589793))**(1/2)) * \2.718281828459045**(-(x-mu)**2/(2*sd**2))|
 |exper_Binomial()|확률실험 수행|
 |Binomial|그래프 생성|
+  
